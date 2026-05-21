@@ -1,0 +1,6 @@
+{
+  "name": "Amen's Birthday Story",
+  "description": "An emotional, cinematic birthday storytelling website and memory timeline for Amen.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
